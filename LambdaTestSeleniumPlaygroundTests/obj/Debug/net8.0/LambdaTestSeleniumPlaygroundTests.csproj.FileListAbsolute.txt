@@ -1,0 +1,6 @@
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.csproj.AssemblyReference.cache
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.AssemblyInfoInputs.cache
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.AssemblyInfo.cs
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.csproj.CoreCompileInputs.cache
+C:\Users\DabbakatlaDinesh\source\repos\Selenium101WithcSharp\LambdaTestSeleniumPlaygroundTests\obj\Debug\net8.0\LambdaTestSeleniumPlaygroundTests.sourcelink.json
